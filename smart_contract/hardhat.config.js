@@ -6,8 +6,8 @@ module.exports = {
   solidity: '0.8.0',
   networks: {
     goerli: {
-      url: import.meta.env.ALCHEMY_URL,
-      accounts: [import.meta.WALLET_PRIVATE_KEY]
+      url: process.env.ALCHEMY_URL,
+      accounts: [process.env.WALLET_PRIVATE_KEY]
     }
   }
 
