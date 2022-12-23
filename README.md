@@ -1,2 +1,2 @@
 # Mixxin
-![Mixxin](![mixxin](https://user-images.githubusercontent.com/90481075/209410573-fa3300eb-d1ca-424b-90d4-c87571bc2146.JPG))
+![mixxin](https://user-images.githubusercontent.com/90481075/209410830-bf2a6e2f-626b-4654-bafd-53600f8a924d.JPG)
